@@ -20,7 +20,7 @@ def PrintHealth():
 Items = []
 health=10
 gold = 0
-print("Hello yond travler, how are you?")
+print("Hello young traveler, how are you?")
 PText = input(">")
 print("Ok.. Anyways, lets go on an adventure on a far away land.")
 print("First lets earn some gold...")
