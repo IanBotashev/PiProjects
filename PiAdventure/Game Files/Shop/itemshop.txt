@@ -1,0 +1,6 @@
+Sword = 10 gold
+Heavy Sword = 30 gold
+Shield = 10 gold
+Medkit = 15 gold
+Extra Health(+10) = 30 gold
+Type 'Done' when you are done shopping!
